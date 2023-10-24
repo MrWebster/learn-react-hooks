@@ -163,9 +163,9 @@ function PokemonForm({
         <button
           className="invisible-button"
           type="button"
-          onClick={() => handleSelect('mew')}
+          onClick={() => handleSelect('bulbasaur')}
         >
-          "mew"
+          "bulbasaur"
         </button>
       </small>
       <div>
